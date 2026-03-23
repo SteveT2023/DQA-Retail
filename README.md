@@ -10,4 +10,5 @@ Here is the steps I will take:
 6. Accuracy
 
 SQL dialect that is being used: MySQL
+
 DBMS: DBEAVER
