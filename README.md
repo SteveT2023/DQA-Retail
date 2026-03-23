@@ -1,7 +1,4 @@
 # DQA-Retail
-Data Quality Analysis Project | Retail Store
-
-
 In this project, I will be following the six dimension of data quality to transform a dirty dataset into a clean one.
 
 Here is the steps I will take:
@@ -12,4 +9,4 @@ Here is the steps I will take:
 5. Validity
 6. Accuracy
 
-SQL: MySQL
+SQL dialect that is being used: MySQL
