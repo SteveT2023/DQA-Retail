@@ -9,6 +9,6 @@ Here is the steps I will take:
 5. Validity
 6. Accuracy
 
-SQL dialect that is being used: MySQL
+SQL Dialect: MySQL
 
 DBMS: DBEAVER
