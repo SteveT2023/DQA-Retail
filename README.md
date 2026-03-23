@@ -11,4 +11,4 @@ Here is the steps I will take:
 
 SQL Dialect: MySQL
 
-DBMS: DBEAVER
+DBMS: DBeaver
