@@ -1,5 +1,5 @@
 # DQA-Retail
-In this project, I will be following the six dimension of data quality to transform a dirty dataset into a clean one.
+In this project, I will be following the six dimensions of data quality to transform a dirty dataset into a clean one.
 
 Here is the steps I will take:
 1. Completeness
@@ -9,4 +9,6 @@ Here is the steps I will take:
 5. Validity
 6. Accuracy
 
-SQL dialect that is being used: MySQL
+SQL Dialect: MySQL
+
+DBMS: DBeaver
