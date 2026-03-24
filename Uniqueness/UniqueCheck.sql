@@ -1,5 +1,5 @@
 /* All other columns beside TransactionID can be duplicates and are valid. 
-The code below checks if TransactionID occured twice which it didn't. 
+The code below checks if TransactionID occured twice or more, which it didn't. 
 Meaning, this table is clean and unique.
 */
 
